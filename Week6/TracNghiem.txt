@@ -1,0 +1,13 @@
+6. f(int, double).
+7. D. Cả A và B
+8. A. Bao nhiêu cũng được.
+9. Khai báo prototype hợp lệ: A. int funct(char x, char y); , B. double funct(char x), C. void funct();
+10. B. int.
+11. C. funct();
+12. B. int funct(int x) {return x=x+1;}
+13. D. Chạy đúng như mong muốn.
+14. D. Chương trình biên dịch thành công và kết quả khi chạy là: Hello
+15. B. 4
+16. D. Cả B và C.
+17. A. Đúng
+18. A. Đúng

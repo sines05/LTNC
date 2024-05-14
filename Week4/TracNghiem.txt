@@ -1,0 +1,20 @@
+1. Khai báo hợp lệ: (iv) double a[5];
+2. Khai báo hợp lệ: (ii) int a[5] = { 1, 5, 8, 4}; và (iv) int a[] = { 1, 5, 8, 4};
+3. Khai báo mảng 2 chiều: (ii) int a[20][20];
+4. Truy cập phần tử thứ 7 của mảng foo: (i) foo[6];
+5. Trả về địa chỉ của phần tử đầu tiên trong mảng foo: (iii) &foo và (iv) foo;
+6. (iii) [5] diễn tả độ dài của mảng a & [4] diễn tả chỉ số phần tử của mảng a
+7. (iii) Địa chỉ của phần tử đầu tiên của mảng được truyền
+8. (iv) Tất cả các phát biểu trên
+9. (iii) Lỗi khi chạy: truy cập phần tử vượt khoảng cho phép
+10. (iii) void clearBoard(char[][10] aChar); và (iv) void clearBoard(char aChar[][10]);
+11. (iii) triple(a);
+12. (iv) 1.1 2.2 3.3 và 1.1 3.3 3.3
+13. (iii) 15 10 5
+14. (iii) 7
+15. (i) for (i=0; i<5000; i=i+2) cout << beta[i] << endl; và (ii) for (i=0; i<2500; i++) cout << beta[i*2] << endl;
+16. (iii) int freq[256];
+17. (iv) copy(char a1[], const char a2[], int size);
+18. (iii) Phải truyền vào độ dài của mảng trong ngoặc vuông [] cùng tên mảng
+19. (iv) void swap(int &a, int &b);
+20. (iii) void timkiem(int a[][10]);
